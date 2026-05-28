@@ -262,6 +262,3 @@ Makes website responsive on mobile devices.
 <i>Italic text</i>
 ```
 
-```
-
----
